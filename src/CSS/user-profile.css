@@ -1,0 +1,56 @@
+.user-profile{
+    padding: 20px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.user-profile .section{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 15px rgb(199, 199, 199);
+    width: 80%;
+    border-radius: 10px;
+    border: #ccc;
+}
+.user-profile .section .section1{
+    padding: 20px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+    overflow: auto;
+} 
+.user-profile .section .section2{
+    padding: 20px;
+    width: 75%;
+    margin-left: 30px;
+    overflow: auto;
+} 
+.user-profile .section .section1 img{
+    height: 200px;
+    width: 200px;
+}
+.user-profile .section .section1 .user-name{
+    font-size: 26px;
+    font-weight: 300;
+    width: max-content;
+}
+.user-profile .section .section2 .user-info{
+    font-size: 16px;
+}
+.user-profile .section .section2 .user-info label{
+    font-weight: 500;
+    color: #666;
+    margin: 5px 0;
+    text-transform: uppercase;
+}
+.user-profile .section .section2 .user-info p{
+    font-size: 18px;
+    box-sizing: border-box;
+    border-bottom: 1px solid blueviolet;
+    margin-bottom: 15px;
+}

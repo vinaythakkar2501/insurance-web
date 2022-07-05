@@ -1,0 +1,1490 @@
+[
+ {
+  "insurer": "tata aia",
+  "life cover": "20 lac",
+  "till age": 60,
+  "mouthly premium": 360,
+  "yearly premium": 4104,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "20 lac",
+  "till age": 60,
+  "mouthly premium": 690,
+  "yearly premium": 7866,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 491,
+  "yearly premium": 5597.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 360,
+  "yearly premium": 4104,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 351,
+  "yearly premium": 4001.3999999999996,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 356,
+  "yearly premium": 4058.3999999999996,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 742,
+  "yearly premium": 8458.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 590,
+  "yearly premium": 6726,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 662,
+  "yearly premium": 7546.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 587,
+  "yearly premium": 6691.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 421,
+  "yearly premium": 4799.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 427,
+  "yearly premium": 4867.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 794,
+  "yearly premium": 9051.6,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 688,
+  "yearly premium": 7843.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 662,
+  "yearly premium": 7546.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 684,
+  "yearly premium": 7797.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 491,
+  "yearly premium": 5597.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 498,
+  "yearly premium": 5677.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 786,
+  "yearly premium": 8960.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 662,
+  "yearly premium": 7546.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 782,
+  "yearly premium": 8914.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 561,
+  "yearly premium": 6395.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 569,
+  "yearly premium": 6486.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 898,
+  "yearly premium": 10237.199999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 884,
+  "yearly premium": 10077.6,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 662,
+  "yearly premium": 7546.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 880,
+  "yearly premium": 10032,
+  "Gender": "male"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 631,
+  "yearly premium": 7193.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 640,
+  "yearly premium": 7296,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 950,
+  "yearly premium": 10830,
+  "Gender": "male"
+ },
+ {
+  "insurer": "icici prldential",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 585,
+  "yearly premium": 6669,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 623,
+  "yearly premium": 7102.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 507,
+  "yearly premium": 5779.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 662,
+  "yearly premium": 7546.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "bajaj allianz",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 472,
+  "yearly premium": 5380.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 481,
+  "yearly premium": 5483.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 431,
+  "yearly premium": 4913.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 436,
+  "yearly premium": 4970.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "edelweiss tokio",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 419,
+  "yearly premium": 4776.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 327,
+  "yearly premium": 3727.7999999999997,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 742,
+  "yearly premium": 8458.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 557,
+  "yearly premium": 6349.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 911,
+  "yearly premium": 10385.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 529,
+  "yearly premium": 6030.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 480,
+  "yearly premium": 5472,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 360,
+  "yearly premium": 4104,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 784,
+  "yearly premium": 8937.6,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "60 lac ",
+  "till age": 60,
+  "mouthly premium": 608,
+  "yearly premium": 6931.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 911,
+  "yearly premium": 10385.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 577,
+  "yearly premium": 6577.799999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 523,
+  "yearly premium": 5962.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 392,
+  "yearly premium": 4468.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 826,
+  "yearly premium": 9416.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 900,
+  "yearly premium": 10260,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 709,
+  "yearly premium": 8082.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 911,
+  "yearly premium": 10385.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 673,
+  "yearly premium": 7672.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 611,
+  "yearly premium": 6965.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 458,
+  "yearly premium": 5221.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 910,
+  "yearly premium": 10374,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 992,
+  "yearly premium": 11308.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 811,
+  "yearly premium": 9245.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 1219,
+  "yearly premium": 13896.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 694,
+  "yearly premium": 7911.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 698,
+  "yearly premium": 7957.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 523,
+  "yearly premium": 5962.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 995,
+  "yearly premium": 11343,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 992,
+  "yearly premium": 11308.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 912,
+  "yearly premium": 10396.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 1219,
+  "yearly premium": 13896.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 781,
+  "yearly premium": 8903.4,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 785,
+  "yearly premium": 8949,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 588,
+  "yearly premium": 6703.2,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 1078,
+  "yearly premium": 12289.199999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 992,
+  "yearly premium": 11308.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 830,
+  "yearly premium": 9462,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 1219,
+  "yearly premium": 13896.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 829,
+  "yearly premium": 9450.6,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 800,
+  "yearly premium": 9120,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 634,
+  "yearly premium": 7227.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 1163,
+  "yearly premium": 13258.199999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1244,
+  "yearly premium": 14181.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1239,
+  "yearly premium": 14124.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1199,
+  "yearly premium": 13668.599999999999,
+  "Gender": "male"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 952,
+  "yearly premium": 10852.8,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1390,
+  "yearly premium": 15846,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "20 lac",
+  "till age": 60,
+  "mouthly premium": 342,
+  "yearly premium": 3898.7999999999997,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "20 lac",
+  "till age": 60,
+  "mouthly premium": 655.5,
+  "yearly premium": 7472.7,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 466.45,
+  "yearly premium": 5317.53,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 342,
+  "yearly premium": 3898.7999999999997,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 333.45,
+  "yearly premium": 3801.3299999999995,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 338.2,
+  "yearly premium": 3855.4799999999996,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 60,
+  "mouthly premium": 704.9,
+  "yearly premium": 8035.859999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 560.5,
+  "yearly premium": 6389.7,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 628.9,
+  "yearly premium": 7169.459999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 557.65,
+  "yearly premium": 6357.209999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 399.95,
+  "yearly premium": 4559.429999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 405.65,
+  "yearly premium": 4624.409999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "30 lac",
+  "till age": 60,
+  "mouthly premium": 754.3,
+  "yearly premium": 8599.019999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 653.6,
+  "yearly premium": 7451.04,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 628.9,
+  "yearly premium": 7169.459999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 649.8,
+  "yearly premium": 7407.719999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 466.45,
+  "yearly premium": 5317.53,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "35 lac",
+  "till age": 60,
+  "mouthly premium": 473.09999999999997,
+  "yearly premium": 5393.339999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 746.6999999999999,
+  "yearly premium": 8512.38,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 628.9,
+  "yearly premium": 7169.459999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 742.9,
+  "yearly premium": 8469.06,
+  "Gender": "female"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 532.9499999999999,
+  "yearly premium": 6075.629999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 540.55,
+  "yearly premium": 6162.2699999999995,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "40 lac",
+  "till age": 60,
+  "mouthly premium": 853.0999999999999,
+  "yearly premium": 9725.339999999998,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 839.8,
+  "yearly premium": 9573.719999999998,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 628.9,
+  "yearly premium": 7169.459999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 836,
+  "yearly premium": 9530.4,
+  "Gender": "female"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 599.4499999999999,
+  "yearly premium": 6833.73,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 608,
+  "yearly premium": 6931.2,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "45 lac",
+  "till age": 60,
+  "mouthly premium": 902.5,
+  "yearly premium": 10288.5,
+  "Gender": "female"
+ },
+ {
+  "insurer": "icici prldential",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 555.75,
+  "yearly premium": 6335.549999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 591.85,
+  "yearly premium": 6747.09,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 481.65,
+  "yearly premium": 5490.8099999999995,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 628.9,
+  "yearly premium": 7169.459999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "bajaj allianz",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 448.4,
+  "yearly premium": 5111.759999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 456.95,
+  "yearly premium": 5209.23,
+  "Gender": "female"
+ },
+ {
+  "insurer": "canara hsbc",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 409.45,
+  "yearly premium": 4667.73,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 414.2,
+  "yearly premium": 4721.879999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "edelweiss tokio",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 398.04999999999995,
+  "yearly premium": 4537.7699999999995,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 310.65,
+  "yearly premium": 3541.4099999999994,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "50 lac",
+  "till age": 60,
+  "mouthly premium": 704.9,
+  "yearly premium": 8035.859999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 529.15,
+  "yearly premium": 6032.309999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 865.4499999999999,
+  "yearly premium": 9866.13,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 502.54999999999995,
+  "yearly premium": 5729.069999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 456,
+  "yearly premium": 5198.4,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 342,
+  "yearly premium": 3898.7999999999997,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "55 lac",
+  "till age": 60,
+  "mouthly premium": 744.8,
+  "yearly premium": 8490.719999999998,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "60 lac ",
+  "till age": 60,
+  "mouthly premium": 577.6,
+  "yearly premium": 6584.64,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 865.4499999999999,
+  "yearly premium": 9866.13,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 548.15,
+  "yearly premium": 6248.909999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 496.84999999999997,
+  "yearly premium": 5664.089999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 372.4,
+  "yearly premium": 4245.359999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "60 lac",
+  "till age": 60,
+  "mouthly premium": 784.6999999999999,
+  "yearly premium": 8945.58,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 855,
+  "yearly premium": 9747,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 673.55,
+  "yearly premium": 7678.469999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 865.4499999999999,
+  "yearly premium": 9866.13,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 639.35,
+  "yearly premium": 7288.59,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 580.4499999999999,
+  "yearly premium": 6617.129999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 435.09999999999997,
+  "yearly premium": 4960.139999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "70 lac",
+  "till age": 60,
+  "mouthly premium": 864.5,
+  "yearly premium": 9855.3,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 942.4,
+  "yearly premium": 10743.359999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 770.4499999999999,
+  "yearly premium": 8783.13,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 1158.05,
+  "yearly premium": 13201.769999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 659.3,
+  "yearly premium": 7516.0199999999995,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 663.1,
+  "yearly premium": 7559.34,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 496.84999999999997,
+  "yearly premium": 5664.089999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "80 lac",
+  "till age": 60,
+  "mouthly premium": 945.25,
+  "yearly premium": 10775.85,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 942.4,
+  "yearly premium": 10743.359999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 866.4,
+  "yearly premium": 9876.96,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 1158.05,
+  "yearly premium": 13201.769999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 741.9499999999999,
+  "yearly premium": 8458.23,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 745.75,
+  "yearly premium": 8501.55,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 558.6,
+  "yearly premium": 6368.04,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "90 lac",
+  "till age": 60,
+  "mouthly premium": 1024.1,
+  "yearly premium": 11674.739999999998,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 942.4,
+  "yearly premium": 10743.359999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 788.5,
+  "yearly premium": 8988.9,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 1158.05,
+  "yearly premium": 13201.769999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 787.55,
+  "yearly premium": 8978.069999999998,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 760,
+  "yearly premium": 8664,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 602.3,
+  "yearly premium": 6866.219999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "100 lac",
+  "till age": 60,
+  "mouthly premium": 1104.85,
+  "yearly premium": 12595.289999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "max life ",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1181.8,
+  "yearly premium": 13472.519999999999,
+  "Gender": "female"
+ },
+ {
+  "insurer": "pnb matlife",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1177.05,
+  "yearly premium": 13418.369999999997,
+  "Gender": "female"
+ },
+ {
+  "insurer": "kotak life",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1139.05,
+  "yearly premium": 12985.169999999998,
+  "Gender": "female"
+ },
+ {
+  "insurer": "india first",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 904.4,
+  "yearly premium": 10310.159999999998,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "150 lac",
+  "till age": 60,
+  "mouthly premium": 1320.5,
+  "yearly premium": 15053.699999999999,
+  "Gender": "female"
+ }
+]

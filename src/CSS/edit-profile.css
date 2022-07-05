@@ -1,0 +1,87 @@
+.edit-profile{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+.edit-profile .mcontainer{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    transition: .3s;
+    padding: 20px;
+}   
+.edit-profile .mcontainer:hover{
+    box-shadow: 5px 5px 15px rgb(199, 199, 199);;
+}
+.edit-profile .mcontainer .edit-profile-form{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.edit-profile .mcontainer .edit-profile-form form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-photo {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-photo img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid blueviolet;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-photo button{
+    border: none;
+    outline: none;
+    background: inherit;
+    height: max-content;
+    width: max-content;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-left: 3px solid blueviolet;
+    text-transform: uppercase;
+    color: blueviolet;
+    box-shadow: 0 1px 5px #ccc;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-photo button:hover{
+    background-color: #eee;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-info{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-info label{
+    font-weight: 500;
+    color: #666;
+    margin: 5px;
+    text-transform: uppercase;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-info input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid blueviolet;
+}
+.edit-profile .mcontainer .edit-profile-form form .user-info select{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid blueviolet;
+}

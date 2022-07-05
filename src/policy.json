@@ -1,0 +1,506 @@
+[
+ {
+  "insurer": "hdfc life ",
+  "life cover": "250 lac",
+  "till age": 58,
+  "premium": 710,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 58,
+  "premium": 794,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 58,
+  "premium": 856,
+  "Gender": "male"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 58,
+  "premium": 565,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 60,
+  "premium": 419,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life ",
+  "life cover": "25 lac",
+  "till age": 41,
+  "premium": 870,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1284,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1478,
+  "Gender": "male"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1075,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 517,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1990,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2267,
+  "Gender": "male"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1776,
+  "Gender": "male"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1959,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3465,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3828,
+  "Gender": "male"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3811,
+  "Gender": "male"
+ },
+ {
+  "insurer": "aegon life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3132,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life ",
+  "life cover": "25 lac",
+  "till age": 40,
+  "premium": 837,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1240,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1424,
+  "Gender": "male"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1029,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 495,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life ",
+  "life cover": "25 lac",
+  "till age": 50,
+  "premium": 1514,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1895,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2162,
+  "Gender": "male"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1682,
+  "Gender": "male"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 810,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3261,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3623,
+  "Gender": "male"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2982,
+  "Gender": "male"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3573,
+  "Gender": "male"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 5437,
+  "Gender": "male"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 5739,
+  "Gender": "male"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 5785,
+  "Gender": "male"
+ },
+ {
+  "insurer": "aegon life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 5525,
+  "Gender": "male"
+ },
+ {
+  "insurer": "hdfc life ",
+  "life cover": "25 lac",
+  "till age": 58,
+  "premium": 710,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 58,
+  "premium": 794,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 58,
+  "premium": 856,
+  "Gender": "female"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 58,
+  "premium": 565,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 60,
+  "premium": 312,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life ",
+  "life cover": "25 lac",
+  "till age": 41,
+  "premium": 780,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1240,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1200,
+  "Gender": "female"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 937,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 455,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1990,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1814,
+  "Gender": "female"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1508,
+  "Gender": "female"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1545,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3465,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3008,
+  "Gender": "female"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2941,
+  "Gender": "female"
+ },
+ {
+  "insurer": "aegon life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2437,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life ",
+  "life cover": "25 lac",
+  "till age": 40,
+  "premium": 766,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1240,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1197,
+  "Gender": "female"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 900,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 437,
+  "Gender": "female"
+ },
+ {
+  "insurer": "hdfc life ",
+  "life cover": "25 lac",
+  "till age": 50,
+  "premium": 1209,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1895,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1736,
+  "Gender": "female"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 1430,
+  "Gender": "female"
+ },
+ {
+  "insurer": "tata aia",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 693,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 3271,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2844,
+  "Gender": "female"
+ },
+ {
+  "insurer": "icic prudential",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2515,
+  "Gender": "female"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 2749,
+  "Gender": "female"
+ },
+ {
+  "insurer": "sbi life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 5347,
+  "Gender": "female"
+ },
+ {
+  "insurer": "exide life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 4676,
+  "Gender": "female"
+ },
+ {
+  "insurer": "bharti",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 4675,
+  "Gender": "female"
+ },
+ {
+  "insurer": "aegon life",
+  "life cover": "25 lac",
+  "till age": 67,
+  "premium": 4492,
+  "Gender": "female"
+ }
+]
